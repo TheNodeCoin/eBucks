@@ -1,4 +1,4 @@
-## Building Schmeckles 
+## Building ViXen
 
 ### On *nix
 
